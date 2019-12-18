@@ -1,0 +1,3 @@
+Name: Gregory
+Age: 27
+Color: Yellow
